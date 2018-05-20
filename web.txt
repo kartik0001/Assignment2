@@ -1,0 +1,39 @@
+1. Access Token: 
+
+        Access token is defined as Security context of a process or be a thread. The information in a token 
+        includes the identity and privileges of the user account associated with the process or thred. It shows as: 
+        When a user logs on the system verifies the users password by comparing it with information stored in security 
+        database. If the password match or authenticate the system produces an access token .
+
+
+   Steps to generate an Access tokens for Twitter.
+
+        1. Login to the apps.twitter.com interface using your Twitter credentials.
+        2. Create an app or open an existing app that you would like to create tokens for.
+        3. Navigate to the keys and Access Tokens page.
+        4. Scroll down amd click on the Create my acccess token button.
+        5. Take note of your access token as you will use in to acess certain API endpoints.
+
+
+2. IP address of Google and Facebook by using DNS LookUp:
+
+        Google: 172.217.6.228  
+        Facebook: 31.13.71.36
+
+3.Difference between Library and API with examples:
+
+        Library: It is basically a collection of functions or objects that serves one particular purpose. Its a block 
+                 of code that we call from our own code to help do things more quick and easily. 
+
+	      Ex: If an Architect want to build a house, so he is prepared for all its aspects including its 
+		  Structure,design,plumbing,wiring,decoration etc.All these functions he performed is the Library. 
+                    
+
+        API: It is (Application Programming Interface) an interface for other programs to interact with your program or 
+             library without having direct access.It is a term that is used to meaning the functions or methods in a 
+             library that you can ask it to do things for you.
+
+	      Ex: From above example as he cant do all of the work by himself so he took help from various experts in 
+                  those fields,but the needed communicate his needs and requirements face to face or via email so 
+		  that they can refer his needs and provide the asked service. So a program can interact with program 
+		  or library by apply this method.     
