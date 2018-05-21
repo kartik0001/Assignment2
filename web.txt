@@ -14,6 +14,10 @@
         4. Scroll down amd click on the Create my acccess token button.
         5. Take note of your access token as you will use in to acess certain API endpoints.
 
+            Github Access Token: https://github.com/settings/tokens/189817994
+            Twitter : 998282551327260672-48IZNm7LaWLElHmbKRRNwQ8KiLPjIQd
+
+
 
 2. IP address of Google and Facebook by using DNS LookUp:
 
